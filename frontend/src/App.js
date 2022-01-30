@@ -2,7 +2,7 @@ import './App.css';
 import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
 import Home from './components/Home';
 import ProjectsList from './components/ProjectsList';
-import ColorMap from './components/projects/ColorMap';
+import ColorMap from './components/projects/colormap/ColorMap';
 
 function App() {
     return (
